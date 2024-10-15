@@ -1,7 +1,6 @@
 ## Hi there 👋
 
--  🔭 I’m currently working on setting up a Coding Club for K-12
-- 🌱 I’m currently learning Robotics programming
+- 🌱 I’m currently learning how to apply engineering principles and design to improve healthcare.
 - 😄 Pronouns: They/Them
 
 <!--
