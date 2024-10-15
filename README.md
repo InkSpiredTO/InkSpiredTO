@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning how to apply engineering principles and design to improve healthcare.
+- 🌱 I'm currently learning how to grow tomatoes indoors.
 - 😄 Pronouns: They/Them
 
 <!--
